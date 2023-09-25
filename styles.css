@@ -6,6 +6,7 @@ h1{
 	width:100%;
 	border:1px solid black;
 	boreder-collapse:collapse;
+	margin:10px;
 }
 .right{
 	text-align:right;
@@ -15,6 +16,7 @@ h1{
 }
 #t11,#t12,#t13{
 	border:1px solid black;
-	boreder-collapse:collapse;
-	cellpadding:0;
+}
+#t-image{
+	text-align:center;
 }
