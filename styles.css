@@ -3,10 +3,12 @@ h1{
 	text-align: center;
 }
 .middle{
-	width:100%;
+	/*width:100%;
 	border:1px solid black;
 	boreder-collapse:collapse;
-	margin:10px;
+	margin:10px;*/
+	width:100%;
+	Table Borders: 1px solid black; Spacing: 1px; Cell Padding: 1px;
 }
 .right{
 	text-align:right;
