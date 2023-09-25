@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+h1{
+	text-align: center;
+}
+.middle{
+	width:100%;
+	border:1px solid black;
+	boreder-collapse:collapse;
+}
+.right{
+	text-align:right;
+}
+.cen{
+	text-align:center;
+}
+#t11,#t12,#t13{
+	border:1px solid black;
+	boreder-collapse:collapse;
+	cellpadding:0;
+}
